@@ -2,6 +2,10 @@
   soundcloud-embed
 </h1>
 
+> [!WARNING]
+> All NPM packages have been deleted entirely even older versions. If there is exists with the same name,
+> it is guaranteed not coming from this repo, since this repo is abandoned due to lack of motivation.
+
 Unofficial Soundcloud Widget API written in Typescript.
 
 ## Core Module
